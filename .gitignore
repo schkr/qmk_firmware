@@ -5,11 +5,6 @@
 .DS_Store
 ._*
 
-chibios/**
-chibios-contrib/**
-lufa/**
-
-
 # Merge files
 *.orig
 *.rej
@@ -115,3 +110,6 @@ compile_commands.json
 
 # VIA(L) json files that don't belong in QMK repo
 via*.json
+lib/chibios
+lib/lufa
+lib/chibios-contrib
