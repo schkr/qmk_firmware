@@ -5,6 +5,11 @@
 .DS_Store
 ._*
 
+chibios/**
+chibios-contrib/**
+lufa/**
+
+
 # Merge files
 *.orig
 *.rej
